@@ -6,7 +6,7 @@ import java.util.Random;
  *  This practice is mock interview question that I made up 
  *  Question : if there is an char array that contain a-z chars in random order, 
  *  our client wants to sort them in alphabetical order.   
- *  'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'  
+ *  
  * @author Ryu
  *
  */

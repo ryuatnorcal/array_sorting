@@ -16,8 +16,9 @@ public class arraySort {
 			return -1;
 		}
 		else{
-			// find out char's askii number
+			// find out char's ascii number
 			// ascii 'a' is 97;
+			// for reference ascii 'A' is 65
 			int asc = (int) ch - 97;
 			return asc % table_size; 
 		}
